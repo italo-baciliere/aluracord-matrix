@@ -1,0 +1,20 @@
+Verificar a versão do node: cmd -> node --version
+Instale o yarn na máquina: https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
+Abra o terminal e execute o comando "yarn init -y", para iniciar os arquivos necessários 
+ para o seu projeto.
+Abra o terminal e execute o comando "yarn add next react react-dom"
+  --Abra o terminal e execute o comando "npm install next react react-dom"
+Adicionar os 'scripts' na pasta package.json
+Crie o diretório 'pages'
+Cria o arquivo '/pages/index.js'
+Execute o comando 'yarn dev'
+
+INSTALAR O SKY NEW UI
+Abra o terminal na página do projeto.
+Excute o comando: 'yarn add @skynexui/components'
+
+SUBINDO PROJETO PARA O GIT
+iniciando o git
+$ git init
+ignorar arquivos de configuração
+$ npx gitignore node
